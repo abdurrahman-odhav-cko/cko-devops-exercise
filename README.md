@@ -22,4 +22,4 @@ directory, and I have not provided a mechanism for uploading / managing the webs
 
 ## Diagram
 
-![Diagram](cloudfront-s3-diagram.png)
+![Diagram](cloudfront-s3-diagram.jpg)
